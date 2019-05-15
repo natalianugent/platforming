@@ -1037,3 +1037,133 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.15-08.00.45:409][605]LogPlayLevel: Display: Destroying online subsystem :Context_23
 [2019.05.15-08.00.54:358][638]LogSavePackage: Moving '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Level_19C19D74A41990195455F1CAB71EFB081.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/Maps/Level_1.umap'
 [2019.05.15-08.00.55:117][638]LogSavePackage: Moving '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Level_1_BuiltDataDF46098E461E5A482A3B1A9FEEA91348.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/Maps/Level_1_BuiltData.uasset'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.SKEL_Widget_Abandon_C' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.Widget_Abandon_C' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.Widget_Abandon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.Widget_Abandon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.Widget_Abandon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.SKEL_Widget_Abandon_C:PreConstruct' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.SKEL_Widget_Abandon_C:Construct' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.SKEL_Widget_Abandon_C:Tick' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:985][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.SKEL_Widget_Abandon_C:BndEvt__Button_Back_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:986][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.SKEL_Widget_Abandon_C:BndEvt__Button_Quit_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:986][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.SKEL_Widget_Abandon_C:Button_Quit' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:986][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.SKEL_Widget_Abandon_C:Button_Back' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:986][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.Widget_Abandon_C:Button_Quit' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.37:986][235]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Abandon.Widget_Abandon_C:Button_Back' ref from Metadata '/Game/_MyContent/Blueprints/Widget_Abandon.PackageMetaData'
+[2019.05.15-08.02.39:198][235]LogSavePackage: Moving '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Widget_Abandon550B68AE4C3CB72CD1F97FBB6DEB25FB.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/UI/Widget_Abandon.uasset'
+[2019.05.15-08.03.10:000][586]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_MyContent/UI/Widget_Won.Widget_Won
+[2019.05.15-08.04.41:800][257]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.596 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.15-08.04.57:669][856]LogEditorTransaction: Undo Rename Widget
+[2019.05.15-08.04.58:252][857]LogEditorTransaction: Undo Edit Left
+[2019.05.15-08.04.58:787][876]LogEditorTransaction: Undo Edit Left
+[2019.05.15-08.05.00:080][927]LogEditorTransaction: Redo Edit Left
+[2019.05.15-08.05.00:257][931]LogEditorTransaction: Redo Edit Left
+[2019.05.15-08.05.50:016][410]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.15-08.06.27:563][434]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.15-08.06.56:274][708]BlueprintLog: New page: Compile Widget_Won
+[2019.05.15-08.06.57:787][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Won" FILE="../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/UI/Widget_Won.uasset" SILENT=true
+[2019.05.15-08.06.57:830][751]LogSavePackage: Moving '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Widget_Won775C5B544BECAA206457ADA39AE528DF.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/UI/Widget_Won.uasset'
+[2019.05.15-08.07.01:309][841]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_MyContent/UI/Widget_Lost.Widget_Lost
+[2019.05.15-08.07.23:736][469]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.15-08.08.14:689][267]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.15-08.09.03:821][629]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.05.15-08.09.31:736][497]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.15-08.15.13:173][592]LogSlate: Window 'MyGameManager*' being destroyed
+[2019.05.15-08.23.22:801][ 91]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.05.15-08.23.29:355][335]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.15-08.23.29:364][335]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.15-08.24.32:638][811]EditorErrors: New page: Actor attachment
+[2019.05.15-08.24.46:966][949]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'FindResults'
+[2019.05.15-08.24.53:427][  1]LogSlate: Window 'Delete Variable' being destroyed
+[2019.05.15-08.25.31:167][345]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.05.15-08.25.55:888][498]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.15-08.25.55:975][498]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.15-08.30.38:946][650]LogSlate: Window 'MyGameManager*' being destroyed
+[2019.05.15-08.32.55:466][389]BlueprintLog: New page: Compile MyGameManager
+[2019.05.15-08.32.55:671][389]LogClass: Warning: Type mismatch in My Player of MyGameManager_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.05.15-08.32.55:673][389]LogClass: Warning: Type mismatch in My Player of MyGameManager_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.05.15-08.33.16:454][694]BlueprintLog: New page: Compile Widget_Lost
+[2019.05.15-08.34.33:973][653]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.15-08.36.32:089][512]LogEditorTransaction: Undo Add Node
+[2019.05.15-08.36.32:399][520]LogEditorTransaction: Undo Delete current selection
+[2019.05.15-08.36.32:642][526]LogEditorTransaction: Undo Delete current selection
+[2019.05.15-08.36.32:886][534]LogEditorTransaction: Undo Delete current selection
+[2019.05.15-08.36.33:200][544]LogEditorTransaction: Undo Add Node
+[2019.05.15-08.36.33:518][555]LogEditorTransaction: Undo Delete current selection
+[2019.05.15-08.36.39:115][781]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.05.15-08.36.41:621][889]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.05.15-08.39.16:234][750]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.05.15-08.41.35:358][653]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.15-08.41.35:548][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.15-08.41.35:549][653]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.15-08.41.35:613][653]LogPlayLevel: [PlayLevel] Compiling MyFunctionLibrary before play...
+[2019.05.15-08.41.35:807][653]LogPlayLevel: [PlayLevel] Compiling MyGameMode before play...
+[2019.05.15-08.41.36:206][653]LogPlayLevel: [PlayLevel] Compiling MyGameManager before play...
+[2019.05.15-08.41.36:229][653]LogBlueprint: Error: [Compiler MyGameManager] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.05.15-08.41.36:234][653]LogBlueprint: Warning: [Compiler MyGameManager] [7293.01] Compile of MyGameManager failed. 1 Fatal Issue(s) 0 Warning(s) [in 39 ms] (/Game/_MyContent/Blueprints/MyGameManager.MyGameManager)
+[2019.05.15-08.41.36:620][653]LogPlayLevel: [PlayLevel] Compiling Widget_Health before play...
+[2019.05.15-08.41.36:994][653]LogPlayLevel: [PlayLevel] Compiling Level_1 before play...
+[2019.05.15-08.41.37:002][653]LogBlueprint: Error: [Compiler PersistentLevel.Level_1] This blueprint (self) is not a MyGameManager_C, therefore ' Target ' must have a connection.
+[2019.05.15-08.41.37:002][653]LogBlueprint: Error: [Compiler PersistentLevel.Level_1] This blueprint (self) is not a MyGameManager_C, therefore ' Target ' must have a connection.
+[2019.05.15-08.41.37:003][653]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] [7293.78] Compile of PersistentLevel.Level_1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 9 ms] (/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1)
+[2019.05.15-08.41.37:350][653]LogPlayLevel: PlayLevel: Blueprint regeneration took 1800 ms (5 blueprints)
+[2019.05.15-08.41.37:350][653]BlueprintLog: Blueprint MyGameManager failed to compile
+[2019.05.15-08.41.37:350][653]BlueprintLog: Blueprint Level_1 failed to compile
+[2019.05.15-08.41.40:547][653]LogSlate: Window 'Message' being destroyed
+[2019.05.15-08.41.49:867][  6]BlueprintLog: New page: Compile Level_1
+[2019.05.15-08.41.51:663][ 31]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.15-08.41.51:764][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.15-08.41.51:765][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.15-08.41.53:875][ 31]LogSlate: Window 'Message' being destroyed
+[2019.05.15-08.41.56:563][ 85]BlueprintLog: New page: Compile MyGameManager
+[2019.05.15-08.41.56:623][ 85]LogBlueprint: Error: [Compiler MyGameManager] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.05.15-08.41.57:058][ 85]LogBlueprint: Warning: [Compiler MyGameManager] [7313.84] Compile of MyGameManager failed. 1 Fatal Issue(s) 0 Warning(s) [in 494 ms] (/Game/_MyContent/Blueprints/MyGameManager.MyGameManager)
+[2019.05.15-08.42.00:319][215]BlueprintLog: New page: Compile MyGameManager
+[2019.05.15-08.42.00:412][215]LogBlueprint: Error: [Compiler MyGameManager] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.05.15-08.42.00:834][215]LogBlueprint: Warning: [Compiler MyGameManager] [7317.61] Compile of MyGameManager failed. 1 Fatal Issue(s) 0 Warning(s) [in 515 ms] (/Game/_MyContent/Blueprints/MyGameManager.MyGameManager)
+[2019.05.15-08.42.06:584][451]BlueprintLog: New page: Compile MyGameManager
+[2019.05.15-08.42.08:716][477]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.15-08.42.08:859][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.15-08.42.08:859][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.15-08.42.08:860][477]PIE: New page: PIE session: Level_1 (16 May 2019 4:42:08 am)
+[2019.05.15-08.42.08:861][477]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.15-08.42.08:897][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031979s)
+[2019.05.15-08.42.08:902][477]LogAIModule: Creating AISystem for world Level_1
+[2019.05.15-08.42.08:904][477]LogPlayLevel: PIE: World Init took: (0.007272s)
+[2019.05.15-08.42.08:904][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.042271s)
+[2019.05.15-08.42.09:139][477]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.15-08.42.09:307][477]LogInit: FAudioDevice initialized.
+[2019.05.15-08.42.09:318][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.15-08.42.09:362][477]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.15-08.42.09:436][477]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.15-18.42.09
+[2019.05.15-08.42.09:436][477]LogWorld: Bringing up level for play took: 0.072688
+[2019.05.15-08.42.09:464][477]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 1.293
+[2019.05.15-08.42.09:466][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.15-08.42.12:171][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.15-08.42.13:796][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.15-08.42.13:975][511]LogScript: Warning: Accessed None trying to read property My Player
+	MyGameManager_C /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.MyGameManager_2
+	Function /Game/_MyContent/Blueprints/MyGameManager.MyGameManager_C:Reset Game:00C0
+[2019.05.15-08.42.14:021][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property My Player". Blueprint:  MyGameManager Function:  Reset Game Graph:  Reset Game Node:  SetActorLocation
+[2019.05.15-08.42.21:009][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.15-08.42.21:129][571]LogScript: Warning: Accessed None trying to read property My Player
+	MyGameManager_C /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.MyGameManager_2
+	Function /Game/_MyContent/Blueprints/MyGameManager.MyGameManager_C:Reset Game:00C0
+[2019.05.15-08.42.21:130][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property My Player". Blueprint:  MyGameManager Function:  Reset Game Graph:  Reset Game Node:  SetActorLocation
+[2019.05.15-08.42.32:711][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.15-08.42.32:833][668]LogScript: Warning: Accessed None trying to read property My Player
+	MyGameManager_C /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.MyGameManager_2
+	Function /Game/_MyContent/Blueprints/MyGameManager.MyGameManager_C:Reset Game:00C0
+[2019.05.15-08.42.32:834][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property My Player". Blueprint:  MyGameManager Function:  Reset Game Graph:  Reset Game Node:  SetActorLocation
+[2019.05.15-08.42.35:475][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.15-08.42.35:607][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.15-08.42.35:609][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.15-08.42.35:647][691]LogSlate: Window 'Platforming Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.15-08.42.35:803][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.15-08.42.35:805][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.15-08.42.36:156][692]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.15-08.42.55:801][839]LogSlate: Window 'Message Log' being destroyed
+[2019.05.15-08.42.55:826][839]LogSlate: Window 'Message Log' being destroyed
+[2019.05.15-08.45.28:666][735]LogSavePackage: Moving '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Level_15C7F0FDE4C4A335DCADFBF847C45A7C2.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/Maps/Level_1.umap'
+[2019.05.15-08.45.28:799][735]LogSavePackage: Moving '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Level_1_BuiltData4942C5764B97196C1114E5B3A5CCB59E.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/Maps/Level_1_BuiltData.uasset'
