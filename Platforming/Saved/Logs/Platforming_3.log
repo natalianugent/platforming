@@ -1,0 +1,1307 @@
+﻿Log file open, 05/27/19 19:20:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Platforming
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.330191
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini]
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.490s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4460T CPU @ 1.90GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Engine.ini]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Engine.ini]
+[2019.05.27-09.20.16:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Engine.ini]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.27-09.20.16:376][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Engine.ini]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.27-09.20.16:377][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Engine.ini]
+[2019.05.27-09.20.16:377][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Engine.ini]
+[2019.05.27-09.20.16:388][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:388][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.27-09.20.16:388][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.27-09.20.16:390][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.27-09.20.16:391][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:392][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.27-09.20.16:392][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.27-09.20.16:392][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.27-09.20.16:392][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.27-09.20.16:578][  0]LogHAL: Display: Platform has ~ 8 GB [8472207360 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.27-09.20.16:578][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.27-09.20.16:578][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.27-09.20.16:578][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.27-09.20.16:579][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:579][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.27-09.20.16:580][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.27-09.20.16:581][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.27-09.20.16:582][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.27-09.20.16:582][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Config/Windows/Engine.ini]
+[2019.05.27-09.20.16:582][  0]LogInit: Computer: DESKTOP-SNPC36S
+[2019.05.27-09.20.16:582][  0]LogInit: User: RadioRentals
+[2019.05.27-09.20.16:582][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.27-09.20.16:582][  0]LogInit: High frequency timer resolution =1.851194 MHz
+[2019.05.27-09.20.16:583][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.27-09.20.16:583][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.27-09.20.16:583][  0]LogMemory: Process Physical Memory: 102.71 MB used, 102.71 MB peak
+[2019.05.27-09.20.16:583][  0]LogMemory: Process Virtual Memory: 85.00 MB used, 85.00 MB peak
+[2019.05.27-09.20.16:583][  0]LogMemory: Physical Memory: 4412.14 MB used,  3667.58 MB free, 8079.73 MB total
+[2019.05.27-09.20.16:583][  0]LogMemory: Virtual Memory: 4633.91 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.05.27-09.20.16:770][  0]LogInit: Using OS detected language (en-US).
+[2019.05.27-09.20.16:770][  0]LogInit: Using OS detected locale (en-AU).
+[2019.05.27-09.20.16:774][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.27-09.20.17:981][  0]LogStreaming: Display: Took  1.212s to InitEngineTextLocalization.
+[2019.05.27-09.20.17:982][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.27-09.20.18:215][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.27-09.20.18:215][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.27-09.20.21:641][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.27-09.20.21:641][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.27-09.20.21:659][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.05.27-09.20.21:659][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.05.27-09.20.21:666][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.27-09.20.21:666][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.27-09.20.21:666][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.27-09.20.21:688][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.27-09.20.21:688][  0]LogD3D11RHI:     GPU DeviceId: 0x412 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.27-09.20.21:688][  0]LogWindows: EnumDisplayDevices:
+[2019.05.27-09.20.21:690][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.05.27-09.20.21:697][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.27-09.20.21:704][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2019.05.27-09.20.21:704][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
+[2019.05.27-09.20.21:704][  0]LogD3D11RHI:   Driver Version: 20.19.15.4703 (internal:20.19.15.4703, unified:20.19.15.4703)
+[2019.05.27-09.20.21:704][  0]LogD3D11RHI:      Driver Date: 6-9-2017
+[2019.05.27-09.20.21:704][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2019.05.27-09.20.21:751][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.05.27-09.20.21:751][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.27-09.20.21:769][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.05.27-09.20.25:844][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.27-09.20.25:883][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.27-09.20.25:920][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.27-09.20.25:957][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.27-09.20.25:995][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.27-09.20.26:033][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.27-09.20.26:070][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.27-09.20.26:108][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.27-09.20.26:127][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:340][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-09.20.26:347][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.27-09.20.26:455][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.27-09.20.26:455][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.27-09.20.26:514][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.27-09.20.26:514][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.27-09.20.26:544][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.27-09.20.26:573][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.27-09.20.26:603][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.27-09.20.26:638][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.27-09.20.26:748][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.27-09.20.26:748][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.27-09.20.26:748][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.27-09.20.26:992][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/Shaders/WorkingDirectory/4500/).
+[2019.05.27-09.20.26:992][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Radio Rentals/AppData/Local/Temp/UnrealShaderWorkingDir/D56AF9C84DEB2070E10B2581EEEDABB2/'.
+[2019.05.27-09.20.27:000][  0]LogXGEController: Cleaning working directory: C:/Users/Radio Rentals/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.27-09.20.27:002][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.27-09.20.27:002][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.27-09.20.27:002][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.27-09.20.30:179][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.27-09.20.31:141][  0]LogDerivedDataCache: Loaded boot cache 0.96s 71MB C:/Users/Radio Rentals/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.27-09.20.31:141][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Radio Rentals/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.27-09.20.31:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.27-09.20.31:141][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.27-09.20.31:142][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.27-09.20.31:142][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.27-09.20.31:207][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.27-09.20.31:207][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.27-09.20.31:207][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.27-09.20.31:222][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Radio Rentals/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.27-09.20.31:222][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.27-09.20.31:222][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.27-09.20.31:267][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.27-09.20.31:269][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.27-09.20.31:286][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.27-09.20.33:584][  0]LogAssetRegistry: FAssetRegistry took 0.0533 seconds to start up
+[2019.05.27-09.20.34:415][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.27-09.20.34:877][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.27-09.20.34:894][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.27-09.20.34:895][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.27-09.20.34:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.27-09.20.34:895][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.27-09.20.34:925][  0]LogNetVersion: Platforming 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1862454284)
+[2019.05.27-09.20.36:045][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.36:546][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.37:047][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.37:548][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.38:048][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.38:549][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.39:050][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.39:550][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.40:051][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.40:552][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin', retrying in .5s...
+[2019.05.27-09.20.41:053][  0]LogFileManager: Error: Error moving file '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/AssetRegistryCache/5a627529.bin'.
+[2019.05.27-09.20.41:226][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 5.183443 seconds
+[2019.05.27-09.20.41:237][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.27-09.20.41:237][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.27-09.20.41:237][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.27-09.21.15:070][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini]
+[2019.05.27-09.21.15:489][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.27-09.21.15:507][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.27-09.21.19:489][  0]SourceControl: Source control is disabled
+[2019.05.27-09.21.19:489][  0]SourceControl: Source control is disabled
+[2019.05.27-09.21.19:495][  0]SourceControl: Source control is disabled
+[2019.05.27-09.21.19:503][  0]SourceControl: Source control is disabled
+[2019.05.27-09.21.19:956][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.27-09.21.20:580][  0]LogOcInput: OculusInput pre-init called
+[2019.05.27-09.21.20:991][  0]LogEngine: Initializing Engine...
+[2019.05.27-09.21.20:994][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.27-09.21.20:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.27-09.21.20:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.27-09.21.20:997][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.05.27-09.21.20:997][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.27-09.21.22:675][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.27-09.21.23:598][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.27-09.21.23:825][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-09.21.24:268][  0]LogInit: FAudioDevice initialized.
+[2019.05.27-09.21.24:269][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.27-09.21.24:280][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Radio Rentals/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.27-09.21.24:281][  0]LogInit: Texture streaming: Enabled
+[2019.05.27-09.21.24:941][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.27-09.21.25:211][  0]LogInit: Transaction tracking system initialized
+[2019.05.27-09.21.25:555][  0]BlueprintLog: New page: Editor Load
+[2019.05.27-09.21.28:068][  0]LocalizationService: Localization service is disabled
+[2019.05.27-09.21.33:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/' took 0.02s
+[2019.05.27-09.21.33:285][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.27-09.21.33:285][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.27-09.21.33:285][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.27-09.21.33:285][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.27-09.21.33:285][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.27-09.21.33:286][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.05.27-09.21.33:286][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.27-09.21.40:405][  0]SourceControl: Source control is disabled
+[2019.05.27-09.21.40:437][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.27-09.21.40:529][  0]LightingResults: New page: Lighting Build
+[2019.05.27-09.21.40:629][  0]MapCheck: New page: Map Check
+[2019.05.27-09.21.40:629][  0]LightingResults: New page: Lighting Build
+[2019.05.27-09.21.45:704][  0]LogAIModule: Creating AISystem for world Level_1
+[2019.05.27-09.22.03:511][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.27-09.22.03:553][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.27-09.22.03:554][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.552ms to complete.
+[2019.05.27-09.22.03:554][  0]LogFileHelpers: Loading map 'Level_1' took 23.116
+[2019.05.27-09.22.05:135][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-09.22.05:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-09.22.05:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-09.22.05:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-09.22.05:301][  0]LogCollectionManager: Loaded 0 collections in 0.005700 seconds
+[2019.05.27-09.22.05:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Collections/' took 0.01s
+[2019.05.27-09.22.05:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/Developers/RadioRentals/Collections/' took 0.01s
+[2019.05.27-09.22.05:350][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/Collections/' took 0.01s
+[2019.05.27-09.22.05:350][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.27-09.22.05:368][  0]LogContentBrowser: Native class hierarchy populated in 0.0182 seconds. Added 2651 classes and 620 folders.
+[2019.05.27-09.22.05:466][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.27-09.22.05:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.05:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:023][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:082][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.06:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-09.22.08:298][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.27-09.22.08:398][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.05.27-09.22.08:640][  0]LogSlate: Took 0.019440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.27-09.22.08:653][  0]LogSlate: Took 0.010912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.27-09.22.08:677][  0]LogSlate: Took 0.015485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.27-09.22.09:323][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.05.27-09.22.14:722][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-09.22.15:104][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.05.27-09.22.15:237][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.27-09.22.15:245][  0]LogLoad: (Engine Initialization) Total time: 148.80 seconds
+[2019.05.27-09.22.15:245][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.27-09.22.21:913][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.27-09.22.31:434][  1]LogSlate: Took 0.080717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.27-09.22.32:546][  2]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.27-09.22.34:278][  7]LogAssetRegistry: Asset discovery search completed in 120.7230 seconds
+[2019.05.27-09.22.34:306][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.27-09.22.34:306][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.024935 seconds (updated 0 objects)
+[2019.05.27-09.22.58:941][206]Cmd: SELECT NONE
+[2019.05.27-09.23.02:967][224]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.23.41:873][492]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.23.49:273][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.23.49:602][573]LogActorFactory: Actor Factory created Cube
+[2019.05.27-09.23.52:786][597]LogActorFactory: Actor Factory created Cube
+[2019.05.27-09.23.54:371][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.23.54:603][611]LogLinker: Warning: Can't resolve asset name
+[2019.05.27-09.23.54:603][611]LogLinker: Warning: Can't resolve asset name
+[2019.05.27-09.23.57:865][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.24.17:554][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.24.21:191][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.24.26:346][972]Cmd: EDIT COPY
+[2019.05.27-09.24.26:848][978]Cmd: EDIT PASTE
+[2019.05.27-09.24.29:606][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.24.40:697][144]Cmd: EDIT PASTE
+[2019.05.27-09.24.55:151][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.25.07:565][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.25.16:084][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.25.25:945][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.25.26:164][689]LogActorFactory: Actor Factory created Cube
+[2019.05.27-09.25.27:327][700]LogActorFactory: Actor Factory created Cube
+[2019.05.27-09.25.28:911][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.25.44:731][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.25.46:236][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.05.27-09.25.49:441][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.05.27-09.26.00:465][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.26.08:854][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.26.18:415][289]Cmd: TRANSACTION UNDO
+[2019.05.27-09.26.18:415][289]LogEditorTransaction: Undo Move Actors
+[2019.05.27-09.26.19:870][332]Cmd: EDIT COPY
+[2019.05.27-09.26.20:420][338]Cmd: EDIT PASTE
+[2019.05.27-09.26.25:845][400]Cmd: EDIT PASTE
+[2019.05.27-09.26.39:799][567]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.26.41:256][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2019.05.27-09.26.43:012][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-09.26.44:655][648]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0007 seconds. Added 15 classes and 2 folders.
+[2019.05.27-09.26.44:661][648]LogInit: Transaction tracking system initialized
+[2019.05.27-09.26.44:723][648]EditorErrors: New page: Matinee Initialization
+[2019.05.27-09.26.45:081][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-09.26.48:496][708]LogSlate: Window 'MatineeActor*' being destroyed
+[2019.05.27-09.26.49:282][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.26.50:782][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2019.05.27-09.26.55:359][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.27.21:320][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.27.32:439][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.27.41:118][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.28.10:505][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.05.27-09.28.12:339][144]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.28.13:119][151]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.28.14:137][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.28.22:270][291]LogSlate: Window 'Message' being destroyed
+[2019.05.27-09.28.26:178][371]LogInit: Transaction tracking system initialized
+[2019.05.27-09.28.26:178][371]EditorErrors: New page: Matinee Initialization
+[2019.05.27-09.28.29:187][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.05.27-09.28.34:516][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.28.52:786][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.28.59:911][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.29.06:941][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.29.08:573][695]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.29.09:565][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.29.19:317][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.29.34:154][120]LogInit: Transaction tracking system initialized
+[2019.05.27-09.29.34:154][120]EditorErrors: New page: Matinee Initialization
+[2019.05.27-09.29.35:949][145]LogSlate: Window 'MatineeActor2*' being destroyed
+[2019.05.27-09.29.37:597][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.05.27-09.29.38:414][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.30.08:006][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.30.15:904][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.30.21:516][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.30.34:525][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.05.27-09.30.36:952][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.30.41:486][678]LogSlate: Window 'Select Path' being destroyed
+[2019.05.27-09.30.41:684][678]LogExit: Transaction tracking system shut down
+[2019.05.27-09.30.41:684][678]LogExit: Transaction tracking system shut down
+[2019.05.27-09.30.41:760][678]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_MyContent/Blueprints/Cylinder_Blueprint.Cylinder_Blueprint
+[2019.05.27-09.30.43:310][678]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0091 seconds. Added 117 classes and 0 folders.
+[2019.05.27-09.30.45:657][679]LogRenderer: Reallocating scene render targets to support 1212x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.27-09.31.25:467][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.31.43:730][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2019.05.27-09.31.44:231][590]Cmd: DELETE
+[2019.05.27-09.31.44:231][590]Cmd: ACTOR DELETE
+[2019.05.27-09.31.48:257][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.31.51:570][697]Cmd: DELETE
+[2019.05.27-09.31.51:570][697]Cmd: ACTOR DELETE
+[2019.05.27-09.31.51:745][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.27-09.31.51:793][697]LogExit: Transaction tracking system shut down
+[2019.05.27-09.31.51:797][697]LogEditorActor: Deleted 1 Actors (0.228 secs)
+[2019.05.27-09.31.58:587][780]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.05.27-09.31.58:918][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-09.32.02:124][922]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.05.27-09.32.02:391][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-09.32.10:448][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.05.27-09.32.23:896][156]LogEditorViewport: Clicking on Actor (LMB): MyGameManager_C (MyGameManager)
+[2019.05.27-09.32.31:935][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.32.52:013][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.33.12:265][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-09.33.14:179][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-09.33.14:184][741]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1
+[2019.05.27-09.33.14:583][741]LogSlate: Took 0.020433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.27-09.33.15:105][742]LogSlate: Took 0.018938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.27-09.33.21:383][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.05.27-09.33.27:299][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.33.33:329][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.33.39:888][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.34.14:545][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.34.35:867][385]LogEditorViewport: Clicking on Actor (LMB): Cylinder_Blueprint_C (Cylinder_Blueprint)
+[2019.05.27-09.34.40:725][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.34.44:279][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2019.05.27-09.34.45:869][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.39.35:511][691]LogEditorViewport: Clicking on Actor (LMB): Cylinder_Blueprint_C (Cylinder_Blueprint)
+[2019.05.27-09.39.36:568][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.40.22:001][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.40.58:474][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.43.28:931][ 59]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-09.43.29:087][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.43.29:311][ 59]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.27-09.43.29:315][ 59]LogPlayLevel: [PlayLevel] Compiling Cylinder_Blueprint before play...
+[2019.05.27-09.43.31:570][ 59]LogPlayLevel: [PlayLevel] Compiling Level_1 before play...
+[2019.05.27-09.43.31:936][ 59]LogPlayLevel: PlayLevel: Blueprint regeneration took 2718 ms (2 blueprints)
+[2019.05.27-09.43.32:089][ 59]PIE: New page: PIE session: Level_1 (28 May 2019 5:43:31 am)
+[2019.05.27-09.43.32:510][ 59]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.27-09.43.32:947][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.435149s)
+[2019.05.27-09.43.32:948][ 59]LogAIModule: Creating AISystem for world Level_1
+[2019.05.27-09.43.32:980][ 59]LogPlayLevel: PIE: World Init took: (0.033155s)
+[2019.05.27-09.43.32:980][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.469518s)
+[2019.05.27-09.43.33:176][ 59]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-09.43.33:360][ 59]LogInit: FAudioDevice initialized.
+[2019.05.27-09.43.33:397][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-09.43.33:584][ 59]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.27-09.43.34:210][ 59]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.27-19.43.34
+[2019.05.27-09.43.34:296][ 59]LogWorld: Bringing up level for play took: 0.580904
+[2019.05.27-09.43.34:585][ 59]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.05.27-09.43.34:938][ 59]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 4.902
+[2019.05.27-09.43.34:950][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.43.35:413][ 59]LogRenderer: Reallocating scene render targets to support 1612x936 Format 10 NumSamples 1 (Frame:1).
+[2019.05.27-09.44.10:529][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.44.13:882][415]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.44.16:115][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-09.44.17:297][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.44.19:427][457]LogCharacterMovement: MyCharacter is stuck and failed to move! Velocity: X=29.11 Y=-360.47 Z=0.00 Location: X=1492.73 Y=1711.13 Z=196.15 Normal: X=0.62 Y=0.76 Z=-0.20 PenetrationDepth:13.099 Actor:Platform1 Component:Platform Mesh BoneName:None (0 other events since notify)
+[2019.05.27-09.45.57:176][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.45.57:346][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-09.45.57:395][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.45.57:465][284]LogSlate: Window 'Platforming Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.27-09.45.57:718][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-09.45.57:726][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.45.58:074][285]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.27-09.46.22:048][514]LogEditorViewport: Clicking on Actor (LMB): Cylinder_Blueprint_C (Cylinder_Blueprint3)
+[2019.05.27-09.46.27:418][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.46.36:227][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.46.41:940][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.48.25:530][117]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.27-09.48.40:597][239]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_MyContent/Blueprints/KillZone.KillZone
+[2019.05.27-09.54.26:229][558]BlueprintLog: New page: Compile KillZone
+[2019.05.27-09.56.04:838][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.56.27:510][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.56.41:796][749]Cmd: SELECT NONE
+[2019.05.27-09.56.42:955][762]Cmd: TRANSACTION UNDO
+[2019.05.27-09.56.42:955][762]LogEditorTransaction: Undo Select None
+[2019.05.27-09.56.45:433][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.56.53:561][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.56.57:079][159]Cmd: EDIT COPY
+[2019.05.27-09.56.58:129][171]Cmd: EDIT PASTE
+[2019.05.27-09.57.04:850][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.57.15:523][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.57.20:488][391]Cmd: EDIT COPY
+[2019.05.27-09.57.20:995][396]Cmd: EDIT PASTE
+[2019.05.27-09.57.31:247][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.57.40:522][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.57.47:426][649]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.57.48:837][661]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.57.49:985][671]LogEditorViewport: Clicking on Actor (LMB): KillZone_C (KillZone)
+[2019.05.27-09.57.51:594][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.58.00:432][770]LogEditorViewport: Clicking on Actor (LMB): KillZone_C (KillZone3)
+[2019.05.27-09.58.01:631][782]Cmd: EDIT COPY
+[2019.05.27-09.58.02:457][790]Cmd: EDIT PASTE
+[2019.05.27-09.58.04:374][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.58.19:819][956]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-09.58.20:930][966]LogEditorViewport: Clicking on Actor (LMB): KillZone_C (KillZone)
+[2019.05.27-09.58.25:431][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.58.33:200][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.58.33:294][ 90]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-09.58.33:336][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.58.33:337][ 90]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.27-09.58.33:343][ 90]LogPlayLevel: [PlayLevel] Compiling KillZone before play...
+[2019.05.27-09.58.33:405][ 90]LogBlueprint: Error: [Compiler KillZone] This blueprint (self) is not a MyGameManager_C, therefore ' Target ' must have a connection.
+[2019.05.27-09.58.33:408][ 90]LogBlueprint: Warning: [Compiler KillZone] [2326.97] Compile of KillZone failed. 1 Fatal Issue(s) 0 Warning(s) [in 68 ms] (/Game/_MyContent/Blueprints/KillZone.KillZone)
+[2019.05.27-09.58.33:829][ 90]LogPlayLevel: PlayLevel: Blueprint regeneration took 493 ms (1 blueprints)
+[2019.05.27-09.58.33:829][ 90]BlueprintLog: Blueprint KillZone failed to compile
+[2019.05.27-09.58.38:316][ 90]LogSlate: Window 'Message' being destroyed
+[2019.05.27-09.58.45:720][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.58.47:187][277]BlueprintLog: New page: Compile KillZone
+[2019.05.27-09.58.47:207][277]LogBlueprint: Error: [Compiler KillZone] This blueprint (self) is not a MyGameManager_C, therefore ' Target ' must have a connection.
+[2019.05.27-09.58.47:516][277]LogBlueprint: Warning: [Compiler KillZone] [2341.08] Compile of KillZone failed. 1 Fatal Issue(s) 0 Warning(s) [in 328 ms] (/Game/_MyContent/Blueprints/KillZone.KillZone)
+[2019.05.27-09.58.51:393][510]BlueprintLog: New page: Compile KillZone
+[2019.05.27-09.58.53:610][548]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-09.58.53:636][548]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.58.53:636][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-09.58.53:637][548]PIE: New page: PIE session: Level_1 (28 May 2019 5:58:53 am)
+[2019.05.27-09.58.53:637][548]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.27-09.58.53:905][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.268281s)
+[2019.05.27-09.58.53:906][548]LogAIModule: Creating AISystem for world Level_1
+[2019.05.27-09.58.53:907][548]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2019.05.27-09.58.53:907][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.269604s)
+[2019.05.27-09.58.54:012][548]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-09.58.54:126][548]LogInit: FAudioDevice initialized.
+[2019.05.27-09.58.54:135][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-09.58.54:176][548]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.27-09.58.54:225][548]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.27-19.58.54
+[2019.05.27-09.58.54:226][548]LogWorld: Bringing up level for play took: 0.049246
+[2019.05.27-09.58.54:250][548]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 0.214
+[2019.05.27-09.58.54:251][548]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.59.13:290][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.59.13:293][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-09.59.13:293][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.59.13:336][714]LogSlate: Window 'Platforming Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.27-09.59.13:493][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-09.59.13:494][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-09.59.13:645][715]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.27-09.59.28:139][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.05.27-09.59.29:980][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-09.59.55:451][293]LogEditorViewport: Clicking on Actor (LMB): KillZone_C (KillZone4)
+[2019.05.27-09.59.58:200][319]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-10.00.14:286][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.00.31:235][254]LogEditorTransaction: Undo Rename Node
+[2019.05.27-10.00.34:707][425]LogEditorTransaction: Redo Rename Node
+[2019.05.27-10.01.57:566][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.02.05:953][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.02.06:167][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.05.27-10.02.06:840][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.05.27-10.02.10:097][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.05.27-10.02.13:267][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.12.15:643][ 26]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.27-10.12.17:343][ 27]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.27-10.12.17:842][ 27]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.27-10.12.19:577][ 27]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.27-10.12.19:578][ 27]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.27-10.12.38:166][ 97]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.27-10.13.00:949][ 97]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.27-10.14.16:696][173]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (25.554 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.27-10.21.06:048][330]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Radio Rentals\Desktop\Lose.wav)
+[2019.05.27-10.21.26:037][381]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Lose...
+[2019.05.27-10.21.26:765][381]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 57600 while cooking SoundWave /Game/_MyContent/Audio/Lose.Lose.
+[2019.05.27-10.21.31:357][398]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/_MyContent/Audio/Lose.Lose
+[2019.05.27-10.22.24:470][535]LogSlate: Window 'Lose* - Generic Asset Editor' being destroyed
+[2019.05.27-10.22.29:685][553]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1
+[2019.05.27-10.23.55:831][976]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_MyContent/Blueprints/KillZone.KillZone
+[2019.05.27-10.24.32:474][152]LogEditorTransaction: Undo Delete current selection
+[2019.05.27-10.25.57:203][517]LogSavePackage: Moving '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Level_144498439418489BC74624FB8229E9315.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/Maps/Level_1.umap'
+[2019.05.27-10.25.58:705][517]LogSavePackage: Moving '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Saved/Level_1_BuiltDataD0974D044F45E6905321EFAA3C00BB0E.tmp' to '../../../../../../Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/_MyContent/Maps/Level_1_BuiltData.uasset'
+[2019.05.27-10.27.06:446][862]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.05.27-10.27.07:836][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.27.34:568][  3]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-10.27.44:720][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.30.42:008][990]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_MyContent/Blueprints/MyGameManager.MyGameManager
+[2019.05.27-10.31.39:462][310]LogEditorTransaction: Undo Move Node
+[2019.05.27-10.31.40:796][317]LogEditorTransaction: Undo Paste clipboard contents
+[2019.05.27-10.31.42:108][324]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1.EventGraph.K2Node_CallFunction_18 or K2Node_CallFunction /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1.EventGraph.K2Node_CallFunction_18
+[2019.05.27-10.31.42:108][324]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1.EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1.EventGraph.K2Node_CallFunction_19
+[2019.05.27-10.31.42:108][324]LogUObjectHash: Warning: Ambiguous search, could be K2Node_AddComponent /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1.EventGraph.K2Node_AddComponent_2 or K2Node_AddComponent /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1.EventGraph.K2Node_AddComponent_2
+[2019.05.27-10.31.52:773][380]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-10.31.53:224][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.31.53:224][380]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.27-10.31.53:310][380]LogPlayLevel: [PlayLevel] Compiling KillZone before play...
+[2019.05.27-10.31.53:703][380]LogPlayLevel: [PlayLevel] Compiling Level_1 before play...
+[2019.05.27-10.31.54:178][380]LogPlayLevel: PlayLevel: Blueprint regeneration took 954 ms (2 blueprints)
+[2019.05.27-10.31.54:179][380]PIE: New page: PIE session: Level_1 (28 May 2019 6:31:54 am)
+[2019.05.27-10.31.54:179][380]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.27-10.31.54:673][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.493511s)
+[2019.05.27-10.31.54:674][380]LogAIModule: Creating AISystem for world Level_1
+[2019.05.27-10.31.54:674][380]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2019.05.27-10.31.54:674][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.495070s)
+[2019.05.27-10.31.54:807][380]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-10.31.54:949][380]LogInit: FAudioDevice initialized.
+[2019.05.27-10.31.54:963][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-10.31.55:004][380]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.27-10.31.55:060][380]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.27-20.31.55
+[2019.05.27-10.31.55:062][380]LogWorld: Bringing up level for play took: 0.055533
+[2019.05.27-10.31.55:129][380]LogScript: Warning: Accessed None trying to read property Widget_Health
+	MyGameManager_C /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.MyGameManager_2
+	Function /Game/_MyContent/Blueprints/MyGameManager.MyGameManager_C:Create UI:01B2
+[2019.05.27-10.31.55:172][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget_Health". Blueprint:  MyGameManager Function:  Create UI Graph:  Create UI Node:  Add to Viewport
+[2019.05.27-10.31.55:173][380]LogScript: Warning: Accessed None trying to read property Widget_Health
+	MyGameManager_C /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1:PersistentLevel.MyGameManager_2
+	Function /Game/_MyContent/Blueprints/MyGameManager.MyGameManager_C:Show HUD:001E
+[2019.05.27-10.31.55:173][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget_Health". Blueprint:  MyGameManager Function:  Show HUD Graph:  Show HUD Node:  Set Visibility
+[2019.05.27-10.31.55:178][380]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 1.142
+[2019.05.27-10.31.55:179][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.32.12:628][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.32.12:839][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-10.32.12:839][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.32.12:870][460]LogSlate: Window 'Platforming Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.27-10.32.12:987][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-10.32.12:988][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.32.13:461][461]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.27-10.32.25:997][521]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-10.32.26:011][521]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-10.36.19:991][255]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Radio Rentals\Desktop\win.wav)
+[2019.05.27-10.43.40:871][874]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Radio Rentals\Desktop\backgound.wav)
+[2019.05.27-10.43.51:104][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.44.34:031][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.45.08:955][218]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-10.45.09:164][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.45.09:164][218]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.27-10.45.09:750][218]LogPlayLevel: [PlayLevel] Compiling MyGameManager before play...
+[2019.05.27-10.45.10:000][218]LogBlueprint: Error: [Compiler MyGameManager] Can't connect pins  Target  and  Widget Health : Widget Object Reference is not compatible with Object Reference.
+[2019.05.27-10.45.10:040][218]LogBlueprint: Error: [Compiler MyGameManager] Can't connect pins  Target  and  Widget Health : Widget Object Reference is not compatible with Object Reference.
+[2019.05.27-10.45.10:040][218]LogBlueprint: Error: [Compiler MyGameManager] Can't connect pins  Widget Health  and  Target : Object Reference is not compatible with Widget Object Reference.
+[2019.05.27-10.45.10:045][218]LogBlueprint: Warning: [Compiler MyGameManager] [5123.61] Compile of MyGameManager failed. 3 Fatal Issue(s) 0 Warning(s) [in 688 ms] (/Game/_MyContent/Blueprints/MyGameManager.MyGameManager)
+[2019.05.27-10.45.10:544][218]LogPlayLevel: [PlayLevel] Compiling Level_1 before play...
+[2019.05.27-10.45.10:901][218]LogPlayLevel: PlayLevel: Blueprint regeneration took 1736 ms (2 blueprints)
+[2019.05.27-10.45.10:901][218]BlueprintLog: Blueprint MyGameManager failed to compile
+[2019.05.27-10.45.18:302][218]LogSlate: Window 'Message' being destroyed
+[2019.05.27-10.45.20:338][229]BlueprintLog: New page: Compile Level_1
+[2019.05.27-10.45.23:844][245]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-10.45.24:054][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.45.24:054][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-10.45.27:498][245]LogSlate: Window 'Message' being destroyed
+[2019.05.27-10.45.32:462][268]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_MyContent/Blueprints/MyGameManager.MyGameManager
+[2019.05.27-10.45.35:634][281]BlueprintLog: New page: Compile MyGameManager
+[2019.05.27-10.45.35:748][281]LogBlueprint: Error: [Compiler MyGameManager] Can't connect pins  Target  and  Widget Health : Widget Object Reference is not compatible with Object Reference.
+[2019.05.27-10.45.35:748][281]LogBlueprint: Error: [Compiler MyGameManager] Can't connect pins  Target  and  Widget Health : Widget Object Reference is not compatible with Object Reference.
+[2019.05.27-10.45.35:748][281]LogBlueprint: Error: [Compiler MyGameManager] Can't connect pins  Widget Health  and  Target : Object Reference is not compatible with Widget Object Reference.
+[2019.05.27-10.45.36:097][281]LogBlueprint: Warning: [Compiler MyGameManager] [5149.66] Compile of MyGameManager failed. 3 Fatal Issue(s) 0 Warning(s) [in 463 ms] (/Game/_MyContent/Blueprints/MyGameManager.MyGameManager)
+[2019.05.27-10.46.04:864][429]LogSlate: Window 'Delete Variable' being destroyed
+[2019.05.27-10.46.18:133][504]BlueprintLog: New page: Compile MyGameManager
+[2019.05.27-10.46.18:212][504]LogBlueprint: Error: [Compiler MyGameManager] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2019.05.27-10.46.18:213][504]LogBlueprint: Error: [Compiler MyGameManager] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2019.05.27-10.46.18:635][504]LogBlueprint: Warning: [Compiler MyGameManager] [5192.20] Compile of MyGameManager failed. 2 Fatal Issue(s) 0 Warning(s) [in 502 ms] (/Game/_MyContent/Blueprints/MyGameManager.MyGameManager)
+[2019.05.27-10.46.29:565][567]LogEditorTransaction: Undo Remove Variable
+[2019.05.27-10.46.30:348][571]LogEditorTransaction: Undo Edit X
+[2019.05.27-10.46.39:565][624]BlueprintLog: New page: Compile MyGameManager
+[2019.05.27-10.46.41:887][634]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-10.46.42:075][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.46.42:075][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-10.46.42:075][634]PIE: New page: PIE session: Level_1 (28 May 2019 6:46:42 am)
+[2019.05.27-10.46.42:075][634]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.27-10.46.42:345][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.270733s)
+[2019.05.27-10.46.42:346][634]LogAIModule: Creating AISystem for world Level_1
+[2019.05.27-10.46.42:346][634]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2019.05.27-10.46.42:346][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.272138s)
+[2019.05.27-10.46.42:493][634]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-10.46.42:610][634]LogInit: FAudioDevice initialized.
+[2019.05.27-10.46.42:620][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-10.46.42:661][634]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.27-10.46.42:715][634]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.27-20.46.42
+[2019.05.27-10.46.42:716][634]LogWorld: Bringing up level for play took: 0.053373
+[2019.05.27-10.46.42:740][634]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 0.704
+[2019.05.27-10.46.42:740][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.46.49:434][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.46.49:652][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-10.46.49:653][664]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.46.49:685][664]LogSlate: Window 'Platforming Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.27-10.46.49:805][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-10.46.49:805][664]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.46.50:091][665]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.27-10.46.54:164][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.46.55:907][690]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave backgound...
+[2019.05.27-10.47.00:114][690]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 28757708 while cooking SoundWave /Game/_MyContent/Audio/backgound.backgound.
+[2019.05.27-10.47.25:754][800]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-10.47.25:958][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.47.25:959][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-10.47.25:959][800]PIE: New page: PIE session: Level_1 (28 May 2019 6:47:25 am)
+[2019.05.27-10.47.25:959][800]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.27-10.47.26:241][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.281899s)
+[2019.05.27-10.47.26:242][800]LogAIModule: Creating AISystem for world Level_1
+[2019.05.27-10.47.26:242][800]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2019.05.27-10.47.26:242][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.282975s)
+[2019.05.27-10.47.26:362][800]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-10.47.26:478][800]LogInit: FAudioDevice initialized.
+[2019.05.27-10.47.26:491][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-10.47.26:534][800]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.27-10.47.26:582][800]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.27-20.47.26
+[2019.05.27-10.47.26:583][800]LogWorld: Bringing up level for play took: 0.048465
+[2019.05.27-10.47.26:608][800]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 0.572
+[2019.05.27-10.47.26:609][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.47.39:132][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.47.39:134][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-10.47.39:134][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.47.39:166][856]LogSlate: Window 'Platforming Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.27-10.47.39:284][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-10.47.39:285][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.47.39:563][857]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.27-10.47.42:436][870]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/_MyContent/Audio/backgound.backgound
+[2019.05.27-10.47.50:464][914]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-10.47.50:661][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.47.50:662][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-10.47.50:662][914]PIE: New page: PIE session: Level_1 (28 May 2019 6:47:50 am)
+[2019.05.27-10.47.50:662][914]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.27-10.47.50:931][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.269066s)
+[2019.05.27-10.47.50:932][914]LogAIModule: Creating AISystem for world Level_1
+[2019.05.27-10.47.50:932][914]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2019.05.27-10.47.50:932][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.270007s)
+[2019.05.27-10.47.51:049][914]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-10.47.51:171][914]LogInit: FAudioDevice initialized.
+[2019.05.27-10.47.51:180][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-10.47.51:222][914]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.27-10.47.51:275][914]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.27-20.47.51
+[2019.05.27-10.47.51:276][914]LogWorld: Bringing up level for play took: 0.053315
+[2019.05.27-10.47.51:370][914]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 1.334
+[2019.05.27-10.47.51:371][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.47.54:974][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.47.57:294][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.47.57:506][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-10.47.57:506][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.47.57:537][938]LogSlate: Window 'Platforming Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.27-10.47.57:681][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-10.47.57:682][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-10.47.57:978][939]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.27-10.48.04:971][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.05.27-10.48.08:683][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.48.12:349][  0]AssetReimport: New page: Detailed File System Changes from 8:48:12 pm
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Bark_RoughTwisted/RoughTwistedBark_basecolor.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Bark_RoughTwisted/RoughTwistedBark_height.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Bark_RoughTwisted/RoughTwistedBark_mrao.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Bark_RoughTwisted/RoughTwistedBark_normal.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Brick_LightGrout/BrickWallWithLightGrout_basecolor.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Brick_LightGrout/BrickWallWithLightGrout_emissive.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Brick_LightGrout/BrickWallWithLightGrout_height.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Brick_LightGrout/BrickWallWithLightGrout_mrao.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Brick_LightGrout/BrickWallWithLightGrout_normal.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Brick_LightGrout/BrickWallWithLightGrout_opacity.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Carpet_GeoDesign/HotelCarpetWithInterlacedGeometricDesign_basecolor.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Carpet_GeoDesign/HotelCarpetWithInterlacedGeometricDesign_height.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Carpet_GeoDesign/HotelCarpetWithInterlacedGeometricDesign_mrao.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Carpet_GeoDesign/HotelCarpetWithInterlacedGeometricDesign_normal.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Carpet_ThroneRoom/ThroneRoomCarpet_basecolor.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Carpet_ThroneRoom/ThroneRoomCarpet_height.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Carpet_ThroneRoom/ThroneRoomCarpet_mrao.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Carpet_ThroneRoom/ThroneRoomCarpet_normal.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Dirt_RedCracked/RedCrackedGround_basecolor.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Dirt_RedCracked/RedCrackedGround_emissive.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Dirt_RedCracked/RedCrackedGround_height.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Dirt_RedCracked/RedCrackedGround_mrao.png' has been created.
+[2019.05.27-10.48.12:401][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Dirt_RedCracked/RedCrackedGround_normal.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Dirt_RedCracked/RedCrackedGround_opacity.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_ReinforcedHexWall/ReinforcedScifabricHexWall_basecolor.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_ReinforcedHexWall/ReinforcedScifabricHexWall_emissive.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_ReinforcedHexWall/ReinforcedScifabricHexWall_height.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_ReinforcedHexWall/ReinforcedScifabricHexWall_mrao.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_ReinforcedHexWall/ReinforcedScifabricHexWall_normal.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_ReinforcedHexWall/ReinforcedScifabricHexWall_opacity.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_SciParallelFolds/ScifabricParrallelFolds_basecolor.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_SciParallelFolds/ScifabricParrallelFolds_height.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_SciParallelFolds/ScifabricParrallelFolds_mrao.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Fabric_SciParallelFolds/ScifabricParrallelFolds_normal.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Grass_Muddy/MuddyGrass_basecolor.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Grass_Muddy/MuddyGrass_emissive.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Grass_Muddy/MuddyGrass_height.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Grass_Muddy/MuddyGrass_mrao.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Grass_Muddy/MuddyGrass_normal.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Grass_Muddy/MuddyGrass_opacity.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Gravel_RoundRock/RoundRockGravel_basecolor.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Gravel_RoundRock/RoundRockGravel_emissive.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Gravel_RoundRock/RoundRockGravel_height.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Gravel_RoundRock/RoundRockGravel_mrao.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Gravel_RoundRock/RoundRockGravel_normal.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Gravel_RoundRock/RoundRockGravel_opacity.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AircraftRusty/MetalAircraftInteriorRusty_basecolor.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AircraftRusty/MetalAircraftInteriorRusty_emissive.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AircraftRusty/MetalAircraftInteriorRusty_height.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AircraftRusty/MetalAircraftInteriorRusty_mrao.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AircraftRusty/MetalAircraftInteriorRusty_normal.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AircraftRusty/MetalAircraftInteriorRusty_opacity.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AncientBronze/AncientBronze_basecolor.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AncientBronze/AncientBronze_emissive.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AncientBronze/AncientBronze_height.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AncientBronze/AncientBronze_mrao.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AncientBronze/AncientBronze_normal.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_AncientBronze/AncientBronze_opacity.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_basecolor.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_height.png' has been created.
+[2019.05.27-10.48.12:402][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_mrao.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_normal.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_opacity.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_OldPaintedSteelMesh/ExpandedSteelMeshOldPainted_basecolor.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_OldPaintedSteelMesh/ExpandedSteelMeshOldPainted_emissive.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_OldPaintedSteelMesh/ExpandedSteelMeshOldPainted_height.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_OldPaintedSteelMesh/ExpandedSteelMeshOldPainted_mrao.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_OldPaintedSteelMesh/ExpandedSteelMeshOldPainted_normal.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_OldPaintedSteelMesh/ExpandedSteelMeshOldPainted_opacity.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_PaintedCeiling/PaintedMetalCeiling_basecolor.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_PaintedCeiling/PaintedMetalCeiling_emissive.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_PaintedCeiling/PaintedMetalCeiling_height.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_PaintedCeiling/PaintedMetalCeiling_mrao.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_PaintedCeiling/PaintedMetalCeiling_normal.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_PaintedCeiling/PaintedMetalCeiling_opacity.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_RustyTinWall/RustyFlowerDesignTinWall_basecolor.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_RustyTinWall/RustyFlowerDesignTinWall_height.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_RustyTinWall/RustyFlowerDesignTinWall_mrao.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Metal_RustyTinWall/RustyFlowerDesignTinWall_normal.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_DryCracked/DryCrackedMud_basecolor.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_DryCracked/DryCrackedMud_emissive.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_DryCracked/DryCrackedMud_height.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_DryCracked/DryCrackedMud_mrao.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_DryCracked/DryCrackedMud_normal.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_DryCracked/DryCrackedMud_opacity.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_Trench/TrenchMud_basecolor.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_Trench/TrenchMud_emissive.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_Trench/TrenchMud_height.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_Trench/TrenchMud_mrao.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_Trench/TrenchMud_normal.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Mud_Trench/TrenchMud_opacity.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_CrumblingCliffShrubs/CrumblingCliffWallWithShrubs_basecolor.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_CrumblingCliffShrubs/CrumblingCliffWallWithShrubs_emissive.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_CrumblingCliffShrubs/CrumblingCliffWallWithShrubs_height.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_CrumblingCliffShrubs/CrumblingCliffWallWithShrubs_mrao.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_CrumblingCliffShrubs/CrumblingCliffWallWithShrubs_normal.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_CrumblingCliffShrubs/CrumblingCliffWallWithShrubs_opacity.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_DenseMartian/DenseMartianRock_basecolor.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_DenseMartian/DenseMartianRock_emissive.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_DenseMartian/DenseMartianRock_height.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_DenseMartian/DenseMartianRock_mrao.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_DenseMartian/DenseMartianRock_normal.png' has been created.
+[2019.05.27-10.48.12:403][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_DenseMartian/DenseMartianRock_opacity.png' has been created.
+[2019.05.27-10.48.12:404][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_SnowSweptCliff/SnowSweptCliffFace_basecolor.png' has been created.
+[2019.05.27-10.48.12:404][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_SnowSweptCliff/SnowSweptCliffFace_emissive.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_SnowSweptCliff/SnowSweptCliffFace_height.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_SnowSweptCliff/SnowSweptCliffFace_mrao.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_SnowSweptCliff/SnowSweptCliffFace_normal.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Rock_SnowSweptCliff/SnowSweptCliffFace_opacity.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Sand_BeachWithDebris/CaribbeanBeachWithDebris_basecolor.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Sand_BeachWithDebris/CaribbeanBeachWithDebris_emissive.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Sand_BeachWithDebris/CaribbeanBeachWithDebris_height.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Sand_BeachWithDebris/CaribbeanBeachWithDebris_mrao.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Sand_BeachWithDebris/CaribbeanBeachWithDebris_normal.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Sand_BeachWithDebris/CaribbeanBeachWithDebris_opacity.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Snow_Clumpy/ClumpySnow_basecolor.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Snow_Clumpy/ClumpySnow_emissive.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Snow_Clumpy/ClumpySnow_height.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Snow_Clumpy/ClumpySnow_mrao.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Snow_Clumpy/ClumpySnow_normal.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Snow_Clumpy/ClumpySnow_opacity.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_AncientBlockMasonry/AncientBlockMasonryDark_basecolor.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_AncientBlockMasonry/AncientBlockMasonryDark_height.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_AncientBlockMasonry/AncientBlockMasonryDark_mrao.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_AncientBlockMasonry/AncientBlockMasonryDark_normal.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_HelsinkiCobblestone/HelsinkiCourtyardCobblestone_basecolor.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_HelsinkiCobblestone/HelsinkiCourtyardCobblestone_emissive.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_HelsinkiCobblestone/HelsinkiCourtyardCobblestone_height.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_HelsinkiCobblestone/HelsinkiCourtyardCobblestone_mrao.png' has been created.
+[2019.05.27-10.48.12:432][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_HelsinkiCobblestone/HelsinkiCourtyardCobblestone_normal.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_HelsinkiCobblestone/HelsinkiCourtyardCobblestone_opacity.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_VariedBlockMasonry/VariedStoneBlockMasonryMossy_basecolor.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_VariedBlockMasonry/VariedStoneBlockMasonryMossy_height.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_VariedBlockMasonry/VariedStoneBlockMasonryMossy_mrao.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Stone_VariedBlockMasonry/VariedStoneBlockMasonryMossy_normal.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Tile_MarbleOctagonDiamond/MarbleOctoganTileWithDiamondPattern_basecolor.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Tile_MarbleOctagonDiamond/MarbleOctoganTileWithDiamondPattern_height.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Tile_MarbleOctagonDiamond/MarbleOctoganTileWithDiamondPattern_mrao.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Tile_MarbleOctagonDiamond/MarbleOctoganTileWithDiamondPattern_normal.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wallpaper_OldFloralWallpaper/OldFloralWallpaperAndWood_basecolor.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wallpaper_OldFloralWallpaper/OldFloralWallpaperAndWood_emissive.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wallpaper_OldFloralWallpaper/OldFloralWallpaperAndWood_height.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wallpaper_OldFloralWallpaper/OldFloralWallpaperAndWood_mrao.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wallpaper_OldFloralWallpaper/OldFloralWallpaperAndWood_normal.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wallpaper_OldFloralWallpaper/OldFloralWallpaperAndWood_opacity.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_DeepOcean/DeepOceanWater_basecolor.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_DeepOcean/DeepOceanWater_emissive.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_DeepOcean/DeepOceanWater_height.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_DeepOcean/DeepOceanWater_mrao.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_DeepOcean/DeepOceanWater_normal.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_DeepOcean/DeepOceanWater_opacity.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_Stylized/StylizedWater_basecolor.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_Stylized/StylizedWater_emissive.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_Stylized/StylizedWater_height.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_Stylized/StylizedWater_mrao.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_Stylized/StylizedWater_normal.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Water_Stylized/StylizedWater_opacity.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wood_StylizedCeiling/StylizedWoodenCeiling_basecolor.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wood_StylizedCeiling/StylizedWoodenCeiling_emissive.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wood_StylizedCeiling/StylizedWoodenCeiling_height.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wood_StylizedCeiling/StylizedWoodenCeiling_mrao.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wood_StylizedCeiling/StylizedWoodenCeiling_normal.png' has been created.
+[2019.05.27-10.48.12:433][  0]AssetReimport: 'C:/Users/Radio Rentals/Documents/GitHub/platforming/Platforming/Content/GT_Free2018/Materials/Bitmaps/Wood_StylizedCeiling/StylizedWoodenCeiling_opacity.png' has been created.
+[2019.05.27-10.48.18:908][ 30]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-10.48.18:917][ 30]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-10.48.32:796][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.49.08:053][197]LogTexture: Display: Building textures: T_Baseline_bc (BGRA8, 1X1)
+[2019.05.27-10.49.08:053][197]LogTexture: Display: Building textures: T_Baseline_n (BGRA8, 1X1)
+[2019.05.27-10.49.08:053][197]LogTexture: Display: Building textures: AncientBlockMasonryDark_basecolor (AutoDXT, 2048X2048)
+[2019.05.27-10.49.08:053][197]LogTexture: Display: Building textures: AncientBlockMasonryDark_normal (BC5, 2048X2048)
+[2019.05.27-10.49.08:053][197]LogTexture: Display: Building textures: AncientBlockMasonryDark_mrao (AutoDXT, 2048X2048)
+[2019.05.27-10.49.08:053][197]LogTexture: Display: Building textures: AncientBlockMasonryDark_height (AutoDXT, 2048X2048)
+[2019.05.27-10.49.08:053][197]LogMaterial: Display: Missing cached shader map for material M_GT_Basic, compiling. 
+[2019.05.27-10.49.08:771][197]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.05.27-10.49.08:771][197]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.27-10.49.08:772][197]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.27-10.49.08:772][197]LogMaterial: Display: Missing cached shader map for material M_GT_Basic, compiling. 
+[2019.05.27-10.49.09:006][197]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.05.27-10.49.10:545][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.49.15:760][211]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.05.27-10.49.16:671][214]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.05.27-10.49.16:671][214]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.05.27-10.49.21:337][228]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.27-10.49.21:663][229]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.27-10.49.23:227][234]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.27-10.49.24:815][238]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.27-10.49.25:127][239]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.27-10.49.26:168][242]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.27-10.52.53:664][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.53.31:973][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.53.46:224][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.53.52:357][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.16:034][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.17:586][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.19:237][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.20:587][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.21:913][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.23:373][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.24:904][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.26:283][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.28:013][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.29:853][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.32:238][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.54.40:472][208]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.05.27-10.54.40:726][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.54.44:076][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.46:443][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.48:061][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.49:516][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.51:142][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.52:604][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.54:382][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.56:445][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.54.59:465][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.01:463][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.03:114][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.05:114][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.06:537][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.12:936][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.14:782][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.16:511][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.26:583][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.28:463][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.30:567][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.55.36:489][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.57.07:419][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.57.27:981][497]LogTexture: Display: Building textures: DenseMartianRock_height (AutoDXT, 2048X2048)
+[2019.05.27-10.57.27:981][497]LogTexture: Display: Building textures: DenseMartianRock_basecolor (AutoDXT, 2048X2048)
+[2019.05.27-10.57.27:981][497]LogTexture: Display: Building textures: DenseMartianRock_mrao (AutoDXT, 2048X2048)
+[2019.05.27-10.57.27:981][497]LogTexture: Display: Building textures: DenseMartianRock_normal (BC5, 2048X2048)
+[2019.05.27-10.57.28:028][497]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-10.57.32:651][539]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-10.57.34:732][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.58.02:482][826]LogTexture: Display: Building textures: MuddyGrass_height (AutoDXT, 2048X2048)
+[2019.05.27-10.58.02:482][826]LogTexture: Display: Building textures: MuddyGrass_normal (BC5, 2048X2048)
+[2019.05.27-10.58.02:482][826]LogTexture: Display: Building textures: MuddyGrass_mrao (AutoDXT, 2048X2048)
+[2019.05.27-10.58.02:482][826]LogTexture: Display: Building textures: MuddyGrass_basecolor (AutoDXT, 2048X2048)
+[2019.05.27-10.58.03:073][826]LogMaterial: Display: Missing cached shader map for material M_GT_Basic, compiling. 
+[2019.05.27-10.58.03:211][826]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.05.27-10.58.03:211][826]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.05.27-10.58.03:211][826]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.05.27-10.58.08:666][874]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.05.27-10.58.08:992][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.58.09:942][913]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-10.58.15:008][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.58.16:618][971]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.357 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.27-10.58.23:610][ 82]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.05.27-10.58.24:899][ 92]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.05.27-10.58.26:270][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.05.27-10.58.29:831][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-10.58.35:667][262]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.05.27-10.58.52:313][297]LogTexture: Display: Building textures: WesternBarbedWireKitRusty_height (AutoDXT, 2048X2048)
+[2019.05.27-10.58.52:313][297]LogTexture: Display: Building textures: WesternBarbedWireKitRusty_mrao (AutoDXT, 2048X2048)
+[2019.05.27-10.58.52:313][297]LogTexture: Display: Building textures: WesternBarbedWireKitRusty_opacity (AutoDXT, 2048X2048)
+[2019.05.27-10.58.52:313][297]LogTexture: Display: Building textures: WesternBarbedWireKitRusty_normal (BC5, 2048X2048)
+[2019.05.27-10.58.52:313][297]LogTexture: Display: Building textures: WesternBarbedWireKitRusty_basecolor (AutoDXT, 2048X2048)
+[2019.05.27-10.58.52:313][297]LogMaterial: Display: Missing cached shader map for material M_GT_Basic, compiling. 
+[2019.05.27-10.59.12:893][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.59.25:764][424]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.05.27-10.59.25:764][424]LogTexture: Display: Building textures: BrickWallWithLightGrout_basecolor (AutoDXT, 2048X2048)
+[2019.05.27-10.59.25:764][424]LogTexture: Display: Building textures: BrickWallWithLightGrout_height (AutoDXT, 2048X2048)
+[2019.05.27-10.59.25:765][424]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.05.27-10.59.25:765][424]LogTexture: Display: Building textures: BrickWallWithLightGrout_mrao (AutoDXT, 2048X2048)
+[2019.05.27-10.59.25:765][424]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.05.27-10.59.25:765][424]LogTexture: Display: Building textures: BrickWallWithLightGrout_normal (BC5, 2048X2048)
+[2019.05.27-10.59.27:286][424]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.05.27-10.59.27:302][424]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.05.27-10.59.27:372][425]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.05.27-10.59.31:533][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.59.34:166][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.59.38:823][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.59.40:713][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.59.42:516][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.59.46:049][607]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-10.59.51:122][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-10.59.53:988][647]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.05.27-10.59.54:013][647]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.27-11.00.03:762][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-11.00.07:788][797]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.27-11.00.08:771][837]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.27-11.00.09:060][848]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.27-11.00.11:168][914]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.05.27-11.00.15:084][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.05.27-11.00.16:668][957]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.295 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.27-11.00.17:610][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-11.00.26:553][ 41]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.27-11.00.30:314][ 74]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.27-11.00.58:744][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-11.00.58:745][323]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.27-11.00.58:773][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-11.00.58:773][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-11.00.58:773][323]PIE: New page: PIE session: Level_1 (28 May 2019 7:00:58 am)
+[2019.05.27-11.00.58:774][323]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.27-11.00.59:198][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.424440s)
+[2019.05.27-11.00.59:199][323]LogAIModule: Creating AISystem for world Level_1
+[2019.05.27-11.00.59:199][323]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2019.05.27-11.00.59:199][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.425916s)
+[2019.05.27-11.00.59:370][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-11.00.59:489][323]LogInit: FAudioDevice initialized.
+[2019.05.27-11.00.59:502][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-11.00.59:540][323]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.27-11.00.59:591][323]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.27-21.00.59
+[2019.05.27-11.00.59:593][323]LogWorld: Bringing up level for play took: 0.051837
+[2019.05.27-11.00.59:620][323]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 1.584
+[2019.05.27-11.00.59:620][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-11.01.07:219][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-11.01.07:223][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-11.01.07:223][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-11.01.07:253][378]LogSlate: Window 'Platforming Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.27-11.01.07:437][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-11.01.07:438][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.27-11.01.07:609][379]LogPlayLevel: Display: Destroying online subsystem :Context_18
